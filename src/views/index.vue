@@ -1,7 +1,6 @@
 <script setup>
 import { getMap, initMap } from '@/utils/mainMap2.js'
 import { fetchMockData } from '@/utils/mock.js'
-// import GLlayer from '#/gl-layers/src/index'
 import GLlayer from '#/gl-layers/lib/index.mjs'
 import * as THREE from 'three'
 import CropLayer from '@/components/map/cropLayer.js'
