@@ -2,7 +2,10 @@
 
 使用高德地图API和three.js开发各种可视化图层
 
+[演示界面](/digitalFarm/dist/demo.gif)
+
 演示页面地址
+
 https://gyrate.github.io/digitalFarm/dist/index.html#/index
 
 ## 本地调试
