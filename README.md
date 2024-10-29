@@ -1,6 +1,9 @@
 # 数字孪生智慧农场演示
 
-编写数字孪生农场可演示效果
+使用高德地图API和three.js开发各种可视化图层
+
+演示页面地址
+https://gyrate.github.io/digitalFarm/dist/index.html#/index
 
 ## 本地调试
 node最低版本 14.18.2
