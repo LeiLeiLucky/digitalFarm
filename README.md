@@ -9,7 +9,7 @@
 https://gyrate.github.io/digitalFarm/dist/index.html#/index
 
 ## 本地调试
-node最低版本 14.18.2
+node最低版本 14.18.0
 npm最低版本6.14.15
 
 * 如果你使用npm
